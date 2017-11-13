@@ -1,0 +1,2 @@
+include ':IMKit', ':IMLib', ':RedPacket', ':CallKit', ':CallLib'
+include ':app'
